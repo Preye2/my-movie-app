@@ -4,6 +4,8 @@ An AI-powered full-stack Movie Recommendation Web App built with **React**, **No
 
 ---
 
+https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg
+
 ## 🚀 Features
 
 ✅ User authentication (JWT-based Login/Signup)  
