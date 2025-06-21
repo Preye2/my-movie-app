@@ -77,12 +77,15 @@ GEMINI_API_KEY=your_google_gemini_api_key
 
 ## 📸 Screenshot
 
+---
+
 ![home](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg)
 https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg?raw=true
 
-
-
 ---
+
+![Movie Details](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmoviedetail%20page.jpg)
+https://github.com/Preye2/my-movie-app/blob/main/images%2Fmoviedetail%20page.jpg?raw=true
 
 ## 📦 Installation
 
