@@ -73,6 +73,15 @@ JWT_SECRET=your_jwt_secret
 TMDB_API_KEY=your_tmdb_key
 GEMINI_API_KEY=your_google_gemini_api_key
 
+---
+
+## 📸 Screenshot
+
+![home](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg)
+
+https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg
+
+
 
 ---
 
@@ -103,11 +112,6 @@ Try the AI-powered recommendation feature
 
 ---
 
-## 📸 Screenshot
-
-![home](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg)
-
-https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg
 
 ---
 
