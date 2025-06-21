@@ -95,6 +95,12 @@ https://github.com/Preye2/my-movie-app/blob/main/images%2Fmovierecommedation-pag
 
 ---
 
+![Favourite on MongoDB](https://github.com/Preye2/my-movie-app/blob/main/images%2FFavourite-mongo.jpg)
+
+https://github.com/Preye2/my-movie-app/blob/main/images%2FFavourite-mongo.jpg?raw=true
+
+---
+
 ## 📦 Installation
 
 ### 1. Clone the repo
