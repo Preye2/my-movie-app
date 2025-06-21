@@ -102,9 +102,10 @@ View saved favorites via the profile or favorites page
 Try the AI-powered recommendation feature
 
 
+## 📸 Screenshot
 
-![img 1](https://github.com/Preye2/my-movie-app/blob/75b5fc1c7e5828bc631cb7ea7f7f6973c0d56ea9/images/Favourite-mongo.jpg)
-
+### ✅ Favorite in MongoDB
+![Favourite in MongoDB]()
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
