@@ -101,6 +101,7 @@ View saved favorites via the profile or favorites page
 
 Try the AI-powered recommendation feature
 
+---
 
 ## 📸 Screenshot
 
@@ -108,7 +109,7 @@ Try the AI-powered recommendation feature
 
 https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg
 
-
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
