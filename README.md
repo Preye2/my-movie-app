@@ -4,8 +4,6 @@ An AI-powered full-stack Movie Recommendation Web App built with **React**, **No
 
 ---
 
-![home](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg)
-
 ## 🚀 Features
 
 ✅ User authentication (JWT-based Login/Signup)  
@@ -106,8 +104,12 @@ Try the AI-powered recommendation feature
 
 ## 📸 Screenshot
 
-### ✅ Favorite in MongoDB
-![Favourite in MongoDB](https://github.com/Preye2/my-movie-app/blob/main/images%2FFavourite-mongo.jpg)
+![home](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg)
+
+https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
