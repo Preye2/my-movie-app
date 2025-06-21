@@ -87,6 +87,14 @@ https://github.com/Preye2/my-movie-app/blob/main/images%2Fmy-movie-home.jpg?raw=
 ![Movie Details](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmoviedetail%20page.jpg)
 https://github.com/Preye2/my-movie-app/blob/main/images%2Fmoviedetail%20page.jpg?raw=true
 
+---
+
+![AI Recommendations](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmovierecommedation-page.jpg)
+
+https://github.com/Preye2/my-movie-app/blob/main/images%2Fmovierecommedation-page.jpg?raw=true
+
+---
+
 ## 📦 Installation
 
 ### 1. Clone the repo
