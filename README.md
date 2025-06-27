@@ -101,6 +101,13 @@ https://github.com/Preye2/my-movie-app/blob/main/images%2FFavourite-mongo.jpg?ra
 
 ---
 
+![Manage Favourite](https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_194600_Chrome.jpg)
+https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_194600_Chrome.jpg?raw=true
+
+----
+
+
+
 ## 📦 Installation
 
 ### 1. Clone the repo
