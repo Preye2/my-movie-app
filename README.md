@@ -106,6 +106,8 @@ https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_1946
 
 ----
 
+![AI wih rating section](https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_200206_Chrome.jpg)
+https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_200206_Chrome.jpg
 
 
 ## 📦 Installation
