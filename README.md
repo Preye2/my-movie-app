@@ -90,19 +90,17 @@ https://github.com/Preye2/my-movie-app/blob/main/images%2Fmoviedetail%20page.jpg
 ---
 
 ![AI Recommendations](https://github.com/Preye2/my-movie-app/blob/main/images%2Fmovierecommedation-page.jpg)
-
 https://github.com/Preye2/my-movie-app/blob/main/images%2Fmovierecommedation-page.jpg?raw=true
 
 ---
 
 ![Favourite on MongoDB](https://github.com/Preye2/my-movie-app/blob/main/images%2FFavourite-mongo.jpg)
-
 https://github.com/Preye2/my-movie-app/blob/main/images%2FFavourite-mongo.jpg?raw=true
 
 ---
 
 ![Manage Favourite](https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_194600_Chrome.jpg)
-https://github.com/Preye2/my-movie-app/blob/main/images/Screenshot_20250626_194600_Chrome.jpg?raw=true
+https://github.com/Preye2/my-movie-app/blob/main/images%2FScreenshot_20250626_194600_Chrome.jpg?raw=true
 
 ----
 
